@@ -1,10 +1,12 @@
 {
   "name": "atomizer-custom-helpers",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "demo": "./node_modules/atomizer/bin/atomizer -r src/index.js -o demo/demo.css demo/demo.html"
+
+
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/idmytro/atomizer-custom-helpers/issues"
   },
-  "homepage": "https://github.com/idmytro/atomizer-custom-helpers#readme"
+  "homepage": "https://github.com/idmytro/atomizer-custom-helpers#readme",
+  "devDependencies": {
+    "atomizer": "3.4.6"
+  }
 }

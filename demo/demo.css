@@ -1,0 +1,12 @@
+.Cnt\:\:a::after {
+  content: '';
+}
+.Cnt\:\:b::before {
+  content: '';
+}
+.D\(b\) {
+  display: block;
+}
+.Fx {
+  flex: 1;
+}
