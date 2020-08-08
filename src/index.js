@@ -1,4 +1,5 @@
 module.exports = [
   require('./Cnt'),
-  require('./Fx')
+  require('./Fx'),
+  require('./Space')
 ];
