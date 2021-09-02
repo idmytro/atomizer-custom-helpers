@@ -1,10 +1,15 @@
 {
   "name": "atomizer-custom-helpers",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "demo": "./node_modules/atomizer/bin/atomizer -r src/index.js -o demo/demo.css demo/demo.html"
+    "demo": "atomizer -r src/index.js -o demo/demo.css demo/demo.html",
+    "BdrsSide": "atomizer -r src/index.js -o src/BdrsSide/atomic.css src/BdrsSide/example.html",
+    "Cnt": "atomizer -r src/index.js -o src/Cnt/atomic.css src/Cnt/example.html",
+    "Fx": "atomizer -r src/index.js -o src/Fx/atomic.css src/Fx/example.html",
+    "Inset": "atomizer -r src/index.js -o src/Inset/atomic.css src/Inset/example.html",
+    "Space": "atomizer -r src/index.js -o src/Space/atomic.css src/Space/example.html"
   },
   "repository": {
     "type": "git",
@@ -17,6 +22,6 @@
   },
   "homepage": "https://github.com/idmytro/atomizer-custom-helpers#readme",
   "devDependencies": {
-    "atomizer": "3.4.6"
+    "atomizer": "3.10.0"
   }
 }

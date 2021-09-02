@@ -1,6 +1,6 @@
-.Cnt\:\:a::after {
+.Cnt\:\:b::before {
   content: '';
 }
-.Cnt\:\:b::before {
+.Cnt\:\:a::after {
   content: '';
 }

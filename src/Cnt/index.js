@@ -1,4 +1,4 @@
-module.exports = {
+module.exports = [{
   type: 'helper',
   id: 'CntEmptyString',
   name: 'Cnt',
@@ -7,4 +7,4 @@ module.exports = {
   styles: {
     'content': '\'\''
   }
-};
+}];

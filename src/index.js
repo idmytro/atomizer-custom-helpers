@@ -1,6 +1,7 @@
 module.exports = [
-  require('./Cnt'),
-  require('./Fx'),
-  require('./Inset'),
-  require('./Space')
+  ...require('./BdrsSide'),
+  ...require('./Cnt'),
+  ...require('./Fx'),
+  ...require('./Inset'),
+  ...require('./Space')
 ];

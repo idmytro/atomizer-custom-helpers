@@ -1,11 +1,11 @@
-# `Space<Axis>(<size>)`
+# `Space<Axis>($0)`
 
 ```css
-.Space<Axis>\(<size>\) {
-  --space-<axis>: <size>
+.Space<Axis>($0) {
+  --space-<axis>: $0
 }
 
 [class*=Space<Axis>] > * + *: {
-  margin-<side>: var(--space-<axis>)
+  margin-<side>: var(--space-<Axis>)
 }
 ```

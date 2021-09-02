@@ -1,4 +1,4 @@
-module.exports = {
+module.exports = [{
   type: 'helper',
   id: 'Flex1',
   name: 'Fx',
@@ -7,4 +7,4 @@ module.exports = {
   styles: {
     'flex': 1
   }
-};
+}];
