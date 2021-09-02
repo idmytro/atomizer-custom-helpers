@@ -1,6 +1,6 @@
 {
   "name": "atomizer-custom-helpers",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "src/index.js",
   "scripts": {
@@ -8,6 +8,7 @@
     "BdrsSide": "atomizer -r src/index.js -o src/BdrsSide/atomic.css src/BdrsSide/example.html",
     "Cnt": "atomizer -r src/index.js -o src/Cnt/atomic.css src/Cnt/example.html",
     "Fx": "atomizer -r src/index.js -o src/Fx/atomic.css src/Fx/example.html",
+    "Gap": "atomizer -r src/index.js -o src/Gap/atomic.css src/Gap/example.html",
     "Inset": "atomizer -r src/index.js -o src/Inset/atomic.css src/Inset/example.html",
     "Space": "atomizer -r src/index.js -o src/Space/atomic.css src/Space/example.html"
   },
