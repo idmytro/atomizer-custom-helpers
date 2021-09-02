@@ -1,3 +1,7 @@
+.Bd {
+  border-width: 1px;
+  border-style: solid;
+}
 .Cnt\:\:b::before {
   content: '';
 }
