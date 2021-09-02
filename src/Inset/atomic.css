@@ -1,8 +1,8 @@
-.Inset\(0\), .InsetY\(0\) {
+.Inset\(0\), .Insety\(0\) {
   top: 0;
   bottom: 0;
 }
-.Inset\(0\), .InsetX\(0\) {
+.Inset\(0\), .Insetx\(0\) {
   left: 0;
   right: 0;
 }

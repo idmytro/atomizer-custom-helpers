@@ -13,8 +13,8 @@ module.exports = [
   },
   {
     type: "pattern",
-    name: "InsetX",
-    matcher: "InsetX",
+    name: "Insetx",
+    matcher: "Insetx",
     allowParamToValue: true,
     styles: {
       left: "$0",
@@ -23,8 +23,8 @@ module.exports = [
   },
   {
     type: "pattern",
-    name: "InsetY",
-    matcher: "InsetY",
+    name: "Insety",
+    matcher: "Insety",
     allowParamToValue: true,
     styles: {
       top: "$0",
