@@ -15,6 +15,6 @@
 ## Example
 
 ```html
-<div class="Brdst(1rem)"></div>
-<div class="Brdsstart(1rem)"></div>
+<div class="Bdrst(1rem)"></div>
+<div class="Bdrsstart(1rem)"></div>
 ```

@@ -1,8 +1,8 @@
 module.exports = [
   {
     type: 'matcher',
-    name: 'Brdst',
-    matcher: 'Brdst',
+    name: 'Bdrst',
+    matcher: 'Bdrst',
     allowParamToValue: true,
     styles: {
       'border-top-left-radius': '$0',
@@ -11,8 +11,8 @@ module.exports = [
   },
   {
     type: 'matcher',
-    name: 'Brdsb',
-    matcher: 'Brdsb',
+    name: 'Bdrsb',
+    matcher: 'Bdrsb',
     allowParamToValue: true,
     styles: {
       'border-bottom-left-radius': '$0',
@@ -21,8 +21,8 @@ module.exports = [
   },
   {
     type: 'matcher',
-    name: 'Brdsstart',
-    matcher: 'Brdsstart',
+    name: 'Bdrsstart',
+    matcher: 'Bdrsstart',
     allowParamToValue: true,
     styles: {
       'border-top-__START__-radius': '$0',
@@ -31,8 +31,8 @@ module.exports = [
   },
   {
     type: 'matcher',
-    name: 'Brdsend',
-    matcher: 'Brdsend',
+    name: 'Bdrsend',
+    matcher: 'Bdrsend',
     allowParamToValue: true,
     styles: {
       'border-top-__END__-radius': '$0',

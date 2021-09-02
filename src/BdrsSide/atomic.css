@@ -1,16 +1,16 @@
-.Brdst\(1rem\) {
+.Bdrst\(1rem\) {
   border-top-left-radius: 1rem;
   border-top-right-radius: 1rem;
 }
-.Brdsb\(2rem\) {
+.Bdrsb\(2rem\) {
   border-bottom-left-radius: 2rem;
   border-bottom-right-radius: 2rem;
 }
-.Brdsstart\(3rem\) {
+.Bdrsstart\(3rem\) {
   border-top-left-radius: 3rem;
   border-bottom-left-radius: 3rem;
 }
-.Brdsend\(5rem\) {
+.Bdrsend\(5rem\) {
   border-top-right-radius: 5rem;
   border-bottom-right-radius: 5rem;
 }
